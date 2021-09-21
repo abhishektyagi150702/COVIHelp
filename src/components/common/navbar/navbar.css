@@ -2,3 +2,7 @@
     border: 1px solid ;
     
 }
+.nav-menu {
+    justify-content: end;
+    color: red;
+}
