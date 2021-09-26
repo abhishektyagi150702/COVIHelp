@@ -1,0 +1,9 @@
+.modal-give-btn:hover{
+    transform: scale(105%);
+}
+@media only screen and (max-width:810px){
+    .text-banner p{
+        font-size: 2%;
+        
+    }
+} 

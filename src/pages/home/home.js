@@ -1,9 +1,10 @@
 import React from "react";
+import Banner from "./heroSection/banner";
 
 export const Home = () => {
     return (
         <>
-        <h1>This is Home page</h1>
+        <Banner className="theme-bg" />
         </>
     )
 }

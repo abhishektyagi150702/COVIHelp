@@ -3,7 +3,9 @@
   --theme1:#CB6164;
   --theme2:#454E6B;
   --theme3:#F4D070;
-  --theme4:#E7F9F9;
+  --theme4:#e0f9f9;
+  --theme5:#5296F4;
+  --theme6: #fff;
   
 }
 
@@ -34,9 +36,18 @@ code {
 .theme-logo-p2{
   color: var(--theme2);
 }
+.theme-modal-bg{
+  background-color: var(--theme2);
+}
 .theme-bg-btn{
   background-color: var(--theme3);
 }
 .theme-bg{
   background-color: var(--theme4);
+}
+.theme-skyblue{
+  background-color: var(--theme5);
+}
+.theme-white{
+  color: var(--theme6);
 }
